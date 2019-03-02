@@ -1,0 +1,5 @@
+To update the repository, 
+git add .   //Adds all files to be tracked
+git commit -m "message goes here"  //Adds a commit message
+git pull    //Checks for any updates to the repositry. If there are unresolved conflicts resolve them
+git push    //Pushes commits to the repository
